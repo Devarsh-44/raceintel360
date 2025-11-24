@@ -72,5 +72,7 @@ docs/_build/
 tmp/
 temp/
 
-# Models
+
 models/lap_time_model.pkl
+fastf1_cache/
+*.cache
