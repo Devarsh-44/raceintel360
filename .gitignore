@@ -76,3 +76,6 @@ temp/
 models/lap_time_model.pkl
 fastf1_cache/
 *.cache
+
+# Python packaging rules above must not hide the website source
+!web/src/lib/
