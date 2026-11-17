@@ -154,6 +154,13 @@
       "sourceType": "github",
       "skillPath": "skills/remotion-upgrade/SKILL.md",
       "computedHash": "e469c92611c08ca705bd510965650e249a983d54703b1b5ca7cfb7165deb0f8f"
+    },
+    "text-to-lottie": {
+      "source": "diffusionstudio/lottie",
+      "commit": "3c72912fad543897f90045ed4d355813837927fc",
+      "sourceType": "github",
+      "skillPath": "skills/text-to-lottie/SKILL.md",
+      "computedHash": "49a3dc9d0590d8a4b51cb6fef9da6b3cd124445291d8d50beedde61532cbbde4"
     }
   }
 }
