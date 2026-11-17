@@ -57,6 +57,27 @@
       "skillPath": "skills/gsap-utils/SKILL.md",
       "computedHash": "d05b56284eea0118d481b8c673aff27cae66199282995bfe78315785f561002d"
     },
+    "manim-composer": {
+      "source": "adithya-s-k/manim_skill",
+      "commit": "cef045011722d285692e3381d12d4d637da56e18",
+      "sourceType": "github",
+      "skillPath": "skills/manim-composer/SKILL.md",
+      "computedHash": "e6d151341a7be977e3fd41234bf75f7521da4dd2d9029f7a47de645ca94b3669"
+    },
+    "manimce-best-practices": {
+      "source": "adithya-s-k/manim_skill",
+      "commit": "cef045011722d285692e3381d12d4d637da56e18",
+      "sourceType": "github",
+      "skillPath": "skills/manimce-best-practices/SKILL.md",
+      "computedHash": "72d195ae744e610814cc951fd3475a392d9c2dd47e0cc6d0af97874cf9bd85bc"
+    },
+    "manimgl-best-practices": {
+      "source": "adithya-s-k/manim_skill",
+      "commit": "cef045011722d285692e3381d12d4d637da56e18",
+      "sourceType": "github",
+      "skillPath": "skills/manimgl-best-practices/SKILL.md",
+      "computedHash": "8523911931b818f8d4d927e527b54ec1049292a0bf899e0544805264a2e64360"
+    },
     "motion-design": {
       "source": "LottieFiles/motion-design-skill",
       "commit": "f9a8a041b85185ee4881b3471d3415e939aac772",
